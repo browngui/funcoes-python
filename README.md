@@ -7,5 +7,5 @@
 
 <br>
 
-- ## Para realizar os testes, basta execultar dentro da IDE Pycharm ou pelo próprio Python.
-- ## Caso opte user o Pycharm, use o comando Shift + F10 para rápida execução.
+- ## Para realizar os testes, recomendo execultar a IDE Pycharm da JetBeans.
+
